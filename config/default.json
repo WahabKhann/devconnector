@@ -1,6 +1,8 @@
 {
     "mongoURI": "mongodb+srv://kingutmanwahabkhan:s0sYSLtgz34C6Pgk@cluster0.myigysy.mongodb.net/sample",
-    "jwtSecret": "mysecrettoken"
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "Ov23lieLy0FO8o9dGbg7",
+    "githubSecret": "289a78dfe933e93f98cae253957fbfc6c3b8f7fd"
 
 
 
